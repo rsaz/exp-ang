@@ -1,0 +1,10 @@
+<div class="colum gap-01">
+  <!-- Product Section -->
+  <div class="row wrap gap-1 space-between">
+    <app-product
+      *ngFor="let product of products"
+      [product]="product"
+      (sendProduct)="onSentProduct($event)"
+    ></app-product>
+  </div>
+</div>

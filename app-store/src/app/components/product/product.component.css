@@ -1,0 +1,31 @@
+.wrapper {
+  width: 250px;
+  img {
+    overflow: hidden;
+    aspect-ratio: 1;
+    width: 300px;
+    object-fit: contain;
+    border-radius: 15px;
+    background-color: #f5f5f5;
+  }
+
+  .title {
+    font-weight: 700;
+    font-size: 1.5rem;
+  }
+
+  .price-label {
+    font-weight: 300;
+    font-size: 1rem;
+  }
+
+  .price {
+    font-weight: 500;
+    font-size: 1rem;
+  }
+
+  .rating {
+    font-weight: 500;
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,5 @@
+# Global Ignore
+
+/app-store-api/node_modules
+/app-store/node_modules
+

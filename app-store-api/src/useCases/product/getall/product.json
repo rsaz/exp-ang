@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "id": "1",
+            "name": "Sapato Amarelo Nike",
+            "image": "assets/images/products/image1.jpg",
+            "price": 11.99,
+            "rating": 4
+        },
+        {
+            "id": "2",
+            "name": "Item 2",
+            "image": "assets/images/products/image2.jpg",
+            "price": 12.99,
+            "rating": 3
+        },
+        {
+            "id": "3",
+            "name": "Item 3",
+            "image": "assets/images/products/image3.jpg",
+            "price": 13.99,
+            "rating": 5
+        },
+        {
+            "id": "4",
+            "name": "Item 4",
+            "image": "assets/images/products/image4.jpg",
+            "price": 14.99,
+            "rating": 4
+        },
+        {
+            "id": "5",
+            "name": "Item 5",
+            "image": "assets/images/products/image5.jpg",
+            "price": 15.99,
+            "rating": 2
+        }
+    ]
+}
